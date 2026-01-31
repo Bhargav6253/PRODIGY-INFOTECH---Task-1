@@ -1,0 +1,28 @@
+This program uses the Caesar Cipher technique to encrypt and decrypt a message based on a user-defined shift value. 
+Each alphabet character is shifted forward or backward depending on the selected mode,
+while non-alphabet characters remain unchanged. The final result is displayed to the user.
+
+
+def caesar_cipher(message, shift, mode):
+    result = ""
+
+    for char in message:
+        if char.isalpha():
+            base = ord('A') if char.isupper() else ord('a')
+
+            if mode == "encrypt":
+                result += chr((ord(char) - base + shift) % 26 + base)
+            elif mode == "decrypt":
+                result += chr((ord(char) - base - shift) % 26 + base)
+        else:
+            result += char
+
+    return result
+
+
+message = input("Enter the message: ")
+shift = int(input("Enter the shift value: "))
+mode = input("Enter encrypt or decrypt: ").lower()
+
+result = caesar_cipher(message, shift, mode)
+print("Result:", result)
