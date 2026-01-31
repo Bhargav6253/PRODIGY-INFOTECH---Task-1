@@ -1,7 +1,11 @@
 **Name:** Racharla Kalki Bhargav
+
 **Company:** Prodigy Infotech
+
 **Intern ID:** PIT/JAN26/10509
+
 **Domain:** Cyber Security
+
 **Internship Duration:** 15th January 2026 – February 2026
 
 
