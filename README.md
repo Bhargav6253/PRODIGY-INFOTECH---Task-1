@@ -31,6 +31,9 @@ Validating output and handling edge cases
  ### Technologies Used
 
 Programming Language: Python
+
 Concepts: Cryptography basics, Caesar Cipher
+
 Tools: Python Interpreter, VS Code / IDLE / Terminal
+
 Domain: Cyber Security
