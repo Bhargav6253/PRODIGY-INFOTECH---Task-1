@@ -1,6 +1,6 @@
-**Name:** Racharla Kalki Bhargav
+**Name:** RACHARLA KALKI BHARGAV
 
-**Company:** Prodigy Infotech
+**Company:** PRODIGY INFOTECH
 
 **Intern ID:** PIT/JAN26/10509
 
@@ -11,7 +11,7 @@
 
  ## Overview of the Project
 
- ### Project:** IMPLEMENT CAESAR CIPHER
+ ### Project: IMPLEMENT CAESAR CIPHER
 
  ### Objective
 
