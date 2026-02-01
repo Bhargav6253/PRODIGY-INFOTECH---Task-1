@@ -13,13 +13,13 @@
 
  ### Project: IMPLEMENT CAESAR CIPHER
 
- ### Objective
+ ### Objective:
 
 This project involves the implementation of the Caesar Cipher, a classical cryptographic technique used for basic data encryption and decryption.
 The application is developed in Python and enables users to securely transform text by shifting characters using a user-defined key.
 The project provides a practical understanding of encryption concepts and serves as an introductory exercise in cybersecurity fundamentals.
 
-### Key Activities
+### Key Activities:
 
 Understanding the Caesar Cipher algorithm
 Designing logic for encryption and decryption
@@ -28,7 +28,7 @@ Implementing character shifting using Python
 Testing the program with multiple input values
 Validating output and handling edge cases
 
- ### Technologies Used
+ ### Technologies Used:
 
 Programming Language: Python
 
